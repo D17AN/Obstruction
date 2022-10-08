@@ -21,7 +21,7 @@ This game uses an AI which plays against the user.
 - The extra modules requiered to run the game are: PyGame(2.1.2 or above), Texttable(1.6.4 or above).
 
 ## How to play:
- # Menu:
+  Menu:
   - Use Backspace to go to the previous page.
   - Upp arrow to select the option above the star.
   - Low arrow to select the option below the star.
