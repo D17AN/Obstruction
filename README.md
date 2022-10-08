@@ -1,5 +1,5 @@
 # Obstruction
-Board minigame
+Board minigame. Players take turns in marking squares on a grid. The first player unable to move loses.
 Description
 The game is played on a grid, usually 6 x 6 is a good size. One player is 'O' and the other is 'X'.
 
@@ -19,3 +19,13 @@ This game uses an AI which plays against the user.
 - A version of Python 3 must be installed, recommended a version above 3.9.7.
 - To run the app I would recommend using an IDE, recommended PyCharm (Community Edition, which is the free version, is more than enough).
 - The extra modules requiered to run the game are: PyGame(2.1.2 or above), Texttable(1.6.4 or above).
+
+## How to play:
+ # Menu:
+  - Use Backspace to go to the previous page.
+  - Upp arrow to select the option above the star.
+  - Low arrow to select the option below the star.
+  - Enter to select the current option indicated by the star.
+  - When starting the game you need the select which player you want to be by using the arrows.
+- Use the left click to select the box which you want to mark. 
+
