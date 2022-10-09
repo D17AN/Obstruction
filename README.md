@@ -1,6 +1,7 @@
 # Obstruction
 Board minigame. Players take turns in marking squares on a grid. The first player unable to move loses.
-Description
+
+##Description
 The game is played on a grid, usually 6 x 6 is a good size. One player is 'O' and the other is 'X'.
 
 The players take turns in writing their symbol in an empty cell. Placing a symbol blocks all of the neighbouring cells from both players, which is indicated by shading the blocks.
