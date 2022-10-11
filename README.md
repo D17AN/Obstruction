@@ -10,7 +10,7 @@ This game uses an AI which plays against the user.
 
 ## Informations:
 - It's used the simple feature-driven development.
-- The program provides console user interface or graphical user interface. The game is started by running the main.py.
+- The program provides console user interface or graphical user interface. The game is started by running the main.py, either by simply running the executable.
 - Implementation employs layered architecture and classes.
 - The player can select the size of the grid (by default is 6x6).
 - Provides specification and tests for all non-UI classes and methods(PyUnit test cases).
